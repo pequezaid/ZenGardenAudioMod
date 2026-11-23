@@ -1,0 +1,164 @@
+{
+  "abrir_libro_o_mapa": {
+    "subtitle": "subtitles.zengarden_audio.abrir_libro_o_mapa",
+    "sounds": [
+      {
+        "name": "zengarden_audio:abrir_libro_o_mapa",
+        "stream": false
+      }
+    ]
+  },
+  "boton_menus": {
+    "subtitle": "subtitles.zengarden_audio.boton_menus",
+    "sounds": [
+      {
+        "name": "zengarden_audio:boton_menus",
+        "stream": false
+      }
+    ]
+  },
+  "clack_atras": {
+    "subtitle": "subtitles.zengarden_audio.clack_atras",
+    "sounds": [
+      {
+        "name": "zengarden_audio:clack_atras",
+        "stream": false
+      }
+    ]
+  },
+  "clavado": {
+    "subtitle": "subtitles.zengarden_audio.clavado",
+    "sounds": [
+      {
+        "name": "zengarden_audio:clavado",
+        "stream": false
+      }
+    ]
+  },
+  "click_2": {
+    "subtitle": "subtitles.zengarden_audio.click_2",
+    "sounds": [
+      {
+        "name": "zengarden_audio:click_2",
+        "stream": false
+      }
+    ]
+  },
+  "click": {
+    "subtitle": "subtitles.zengarden_audio.click",
+    "sounds": [
+      {
+        "name": "zengarden_audio:click",
+        "stream": false
+      }
+    ]
+  },
+  "explosion": {
+    "subtitle": "subtitles.zengarden_audio.explosion",
+    "sounds": [
+      {
+        "name": "zengarden_audio:explosion",
+        "stream": false
+      }
+    ]
+  },
+  "logro": {
+    "subtitle": "subtitles.zengarden_audio.logro",
+    "sounds": [
+      {
+        "name": "zengarden_audio:logro",
+        "stream": false
+      }
+    ]
+  },
+  "mordida_1": {
+    "subtitle": "subtitles.zengarden_audio.mordida_1",
+    "sounds": [
+      {
+        "name": "zengarden_audio:mordida_1",
+        "stream": false
+      }
+    ]
+  },
+  "pasar_por_encima": {
+    "subtitle": "subtitles.zengarden_audio.pasar_por_encima",
+    "sounds": [
+      {
+        "name": "zengarden_audio:pasar_por_encima",
+        "stream": false
+      }
+    ]
+  },
+  "pausa": {
+    "subtitle": "subtitles.zengarden_audio.pausa",
+    "sounds": [
+      {
+        "name": "zengarden_audio:pausa",
+        "stream": false
+      }
+    ]
+  },
+  "plantar_plantas_variante": {
+    "subtitle": "subtitles.zengarden_audio.plantar_plantas_variante",
+    "sounds": [
+      {
+        "name": "zengarden_audio:plantar_plantas_variante",
+        "stream": false
+      }
+    ]
+  },
+  "plantar_plantas": {
+    "subtitle": "subtitles.zengarden_audio.plantar_plantas",
+    "sounds": [
+      {
+        "name": "zengarden_audio:plantar_plantas",
+        "stream": false
+      }
+    ]
+  },
+  "romper_jarron": {
+    "subtitle": "subtitles.zengarden_audio.romper_jarron",
+    "sounds": [
+      {
+        "name": "zengarden_audio:romper_jarron",
+        "stream": false
+      }
+    ]
+  },
+  "seleccionar_inventario": {
+    "subtitle": "subtitles.zengarden_audio.seleccionar_inventario",
+    "sounds": [
+      {
+        "name": "zengarden_audio:seleccionar_inventario",
+        "stream": false
+      }
+    ]
+  },
+  "sonido_al_morir": {
+    "subtitle": "subtitles.zengarden_audio.sonido_al_morir",
+    "sounds": [
+      {
+        "name": "zengarden_audio:sonido_al_morir",
+        "stream": false
+      }
+    ]
+  },
+  "sonido_error": {
+    "subtitle": "subtitles.zengarden_audio.sonido_error",
+    "sounds": [
+      {
+        "name": "zengarden_audio:sonido_error",
+        "stream": false
+      }
+    ]
+  },
+  "sonido_especial_pala": {
+    "subtitle": "subtitles.zengarden_audio.sonido_especial_pala",
+    "sounds": [
+      {
+        "name": "zengarden_audio:sonido_especial_pala",
+        "stream": false
+      }
+    ]
+  }
+}

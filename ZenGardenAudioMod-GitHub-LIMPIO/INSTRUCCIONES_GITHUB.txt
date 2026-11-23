@@ -1,0 +1,14 @@
+COMPILAR EL MOD SIN INSTALAR JAVA NI GRADLE EN TU PC
+
+1. En GitHub crea un repositorio nuevo (New repository). Ponle ZenGardenAudioMod y elige Public.
+2. En el repositorio pulsa Add file > Upload files.
+3. Abre esta carpeta ZenGardenAudioMod en tu PC y sube TODO su contenido, incluida la carpeta oculta .github.
+   IMPORTANTE: sube los archivos y carpetas que están DENTRO de ZenGardenAudioMod, no la carpeta contenedora.
+4. Pulsa Commit changes.
+5. Abre la pestaña Actions. El flujo 'Compilar mod Fabric' debe ejecutarse automáticamente.
+6. Cuando termine con marca verde, entra en la ejecución y baja a Artifacts.
+7. Descarga ZenGardenAudio-Fabric-26.1.2. Dentro estará el .jar.
+
+Si la ejecución falla, abre el registro y comparte una captura del error.
+
+NOTA: esto solo compila el proyecto actual. Los eventos de sonido todavía no están conectados a acciones concretas del juego; consultar README.md.

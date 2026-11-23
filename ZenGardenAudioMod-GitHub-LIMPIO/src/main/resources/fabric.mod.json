@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "zengarden_audio",
+  "version": "0.1.0",
+  "name": "Zen Garden Audio",
+  "description": "Sonidos personalizados y reemplazo temporal del disco C418 - 13 por Zen Garden.",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.zaid.zengarden.ZenGardenAudioMod"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.19.0",
+    "minecraft": "~26.1",
+    "java": ">=25"
+  }
+}
